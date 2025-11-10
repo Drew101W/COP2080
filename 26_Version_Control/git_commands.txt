@@ -1,0 +1,4 @@
+git init - initializes a new git repositiry
+
+git status - describes the changes happening in the repositiry (shows status of changes)
+
